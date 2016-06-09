@@ -13,10 +13,6 @@
 #   HUBOT_JIRA_PASSWORD (optional)
 #   HUBOT_JIRA_IGNORE_USERS (optional, format: "user1|user2", default is "jira|github")
 #
-# Commands:
-#   hubot move jira <issue ID> to <status> - Changes the status of <issue ID> to <status>
-#   hubot jira status - List the available statuses
-#
 # Author:
 #   rustedgrail
 #   stuartf
